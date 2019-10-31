@@ -2558,7 +2558,6 @@ Those with no connections. These are the ones for which a mnemonic link is recom
 - **otto**: eight (think octagon, octopus, octave)
 - **nove**: nine (French neuf, English November (same reason: it started off as the 9th month), novena)
 - **dieci**: ten (cognate with decimal, and French dix)
-
 - **venti**: twenty (okay, there are words in English cognate with this, but they’re pretty rare; still, if you drop the initial t, the words become much more similar)
 - **cento**: hundred (cognate with cent, century)
 - **migliaia**: thousand (think of millimeter, millisecond, etc)
