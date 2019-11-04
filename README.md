@@ -15,7 +15,7 @@
 
 <a name="most-used-words"/>
 
-## 1000 most used Italian words
+## ~1000 most used Italian words
 - **io**: I
 - **il suo**: his
 - **che**: that
@@ -28,7 +28,6 @@
 - **essi**: they
 - **essere**: be
 - **a**: at
-- **uno**: one
 - **avere**: have
 - **questo**: this
 - **da**: from
@@ -76,7 +75,7 @@
 - **piccolo**: small
 - **fine**: end
 - **mettere**: put
-- **casa**: home
+- **casa**: home 
 - **leggere**: read
 - **mano**: hand
 - **porto**: port
@@ -101,7 +100,7 @@
 - **tipo**: kind
 - **spento**: off
 - **bisogno**: need
-- **casa**: house
+- **casa**: house 🏠
 - **immagine**: picture
 - **provare**: try
 - **noi**: us
@@ -187,7 +186,6 @@
 - **cosa**: thing
 - **vedere**: see
 - **lui**: him
-- **due**: two
 - **ha**: has
 - **guardare**: look
 - **di più**: more
@@ -204,7 +202,7 @@
 - **il mio**: my
 - **oltre**: over
 - **sapere**: know
-- **acqua**: water
+- **acqua**: water 💧
 - **di**: than
 - **chiamata**: call
 - **primo**: first
@@ -218,33 +216,33 @@
 - **testa**: head
 - **stare in piedi**: stand
 - **proprio**: own
-- **pagina**: page
+- **pagina**: page 📃
 - **dovrebbe**: should
 - **paese**: country
 - **fondare**: found
 - **risposta**: answer
-- **scuola**: school
+- **scuola**: school 🏫
 - **crescere**: grow
 - **studio**: study
 - **ancora**: still
 - **imparare**: learn
-- **impianto**: plant
+- **impianto**: plant 🌱
 - **copertura**: cover
 - **cibo**: food
-- **sole**: sun
+- **sole**: sun 🌞
 - **quattro**: four
 - **fra**: between
 - **stato**: state
 - **mantenere**: keep
-- **occhio**: eye
+- **occhio**: eye 👁
 - **mai**: never
 - **ultimo**: last
 - **lasciare**: let
 - **pensiero**: thought
 - **città**: city
-- **albero**: tree
+- **albero**: tree 🌲
 - **attraversare**: cross
-- **fattoria**: farm
+- **fattoria**: farm 
 - **difficile**: hard
 - **inizio**: start
 - **forza**: might
@@ -275,18 +273,18 @@
 - **ha iniziato**: began
 - **idea**: idea
 - **pesce**: fish
-- **montagna**: mountain
+- **montagna**: mountain 🏔
 - **stop**: stop
 - **una volta**: once
 - **base**: base
 - **sentire**: hear
-- **cavallo**: horse
+- **cavallo**: horse 🐴
 - **taglio**: cut
 - **sicuro**: sure
-- **orologio**: watch
+- **orologio**: watch ⌚️
 - **colore**: color
 - **volto**: face
-- **legno**: wood
+- **legno**: wood 
 - **principale**: main
 - **aperto**: open
 - **sembrare**: seem
@@ -302,7 +300,7 @@
 - **carta**: paper
 - **gruppo**: group
 - **sempre**: always
-- **musica**: music
+- **musica**: music 🎼
 - **quelli**: those
 - **entrambi**: both
 - **marchio**: mark
@@ -311,8 +309,8 @@
 - **fino a quando**: until
 - **miglio**: mile
 - **fiume**: river
-- **auto**: car
-- **piedi**: feet
+- **auto**: car 🚗
+- **piedi**: feet 🦶
 - **cura**: care
 - **secondo**: second
 - **abbastanza**: enough
@@ -328,32 +326,32 @@
 - **anche se**: though
 - **sentire**: feel
 - **Discussioni**: talk
-- **uccello**: bird
+- **uccello**: bird 🦜
 - **presto**: soon
 - **corpo**: body
-- **cane**: dog
+- **cane**: dog 🐶
 - **famiglia**: family
 - **diretto**: direct
 - **posa**: pose
 - **lasciare**: leave
 - **canzone**: song
 - **misurare**: measure
-- **porta**: door
+- **porta**: door 🚪
 - **prodotto**: product
 - **nero**: black
 - **breve**: short
 - **numerale**: numeral
 - **classe**: class
-- **vento**: wind
+- **vento**: wind 💨
 - **domanda**: question
 - **accadere**: happen
 - **integrale**: complete
-- **nave**: ship
+- **nave**: ship 🛳
 - **area**: area
 - **metà**: half
-- **rock**: rock
+- **rock**: rock 
 - **ordine**: order
-- **fuoco**: fire
+- **fuoco**: fire 🔥
 - **sud**: south
 - **problema**: problem
 - **pezzo**: piece
@@ -363,7 +361,7 @@
 - **da**: since
 - **top**: top
 - **tutto**: whole
-- **re**: king
+- **re**: king 
 - **strada**: street
 - **pollice**: inch
 - **moltiplicare**: multiply
@@ -378,8 +376,8 @@
 - **decidere**: decide
 - **superficie**: surface
 - **profondità**: deep
-- **luna**: moon
-- **isola**: island
+- **luna**: moon 🌚
+- **isola**: island 🏝
 - **piede**: foot
 - **sistema**: system
 - **occupato**: busy
@@ -387,7 +385,7 @@
 - **record**: record
 - **barca**: boat
 - **comune**: common
-- **oro**: gold
+- **oro**: gold 
 - **possibile**: possible
 - **piano**: plane
 - **vece**: stead
@@ -471,8 +469,6 @@
 - **meglio**: better
 - **vero**: true
 - **durante**: during
-- **cento**: hundred
-- **cinque**: five
 - **ricordare**: remember
 - **passo**: step
 - **presto**: early
@@ -485,12 +481,10 @@
 - **verbo**: verb
 - **cantare**: sing
 - **ascoltare**: listen
-- **sei**: six
 - **tavolo**: table
 - **viaggi**: travel
 - **meno**: less
 - **mattina**: morning
-- **dieci**: ten
 - **semplice**: simple
 - **alcuni**: several
 - **vocale**: vowel
@@ -501,13 +495,13 @@
 - **modello**: pattern
 - **lento**: slow
 - **centro**: center
-- **amore**: love
+- **amore**: love 
 - **persona**: person
-- **soldi**: money
+- **soldi**: money 💵
 - **servire**: serve
 - **apparire**: appear
 - **strada**: road
-- **mappa**: map
+- **mappa**: map 🗺
 - **pioggia**: rain
 - **regola**: rule
 - **governare**: govern
@@ -518,7 +512,7 @@
 - **energia**: energy
 - **caccia**: hunt
 - **probabile**: probable
-- **letto**: bed
+- **letto**: bed 🛏
 - **fratello**: brother
 - **uovo**: egg
 - **giro**: ride
@@ -528,7 +522,7 @@
 - **scegliere**: pick
 - **improvviso**: sudden
 - **contare**: count
-- **piazza**: square
+- **piazza**: square 
 - **motivo**: reason
 - **lunghezza**: length
 - **rappresentare**: represent
@@ -541,7 +535,7 @@
 - **parlare**: speak
 - **peso**: weight
 - **generale**: general
-- **ghiaccio**: ice
+- **ghiaccio**: ice 
 - **materia**: matter
 - **cerchio**: circle
 - **coppia**: pair
@@ -566,13 +560,13 @@
 - **vela**: sail
 - **materiale**: material
 - **frazione**: fraction
-- **foresta**: forest
+- **foresta**: forest 
 - **sedersi**: sit
 - **gara**: race
 - **finestra**: window
-- **negozio**: store
+- **negozio**: store 
 - **estate**: summer
-- **treno**: train
+- **treno**: train 🚂
 - **sonno**: sleep
 - **dimostrare**: prove
 - **solitario**: lone
@@ -592,8 +586,8 @@
 - **strumento**: instrument
 - **tenere**: kept
 - **vetro**: glass
-- **erba**: grass
-- **mucca**: cow
+- **erba**: grass 
+- **mucca**: cow 🐮
 - **lavoro**: job
 - **bordo**: edge
 - **segno**: sign
@@ -629,7 +623,7 @@
 - **shout**: shout
 - **tranne**: except
 - **ha scritto**: wrote
-- **seme**: seed
+- **seme**: seed 
 - **tono**: tone
 - **aderire**: join
 - **suggerire**: suggest
@@ -640,8 +634,8 @@
 - **salire**: rise
 - **male**: bad
 - **colpo**: blow
-- **olio**: oil
-- **sangue**: blood
+- **olio**: oil 
+- **sangue**: blood 
 - **toccare**: touch
 - **è cresciuto**: grew
 - **cent**: cent
@@ -684,7 +678,7 @@
 - **consonante**: consonant
 - **nazione**: nation
 - **dizionario**: dictionary
-- **latte**: milk
+- **latte**: milk 🥛
 - **velocità**: speed
 - **metodo**: method
 - **organo**: organ
@@ -692,7 +686,7 @@
 - **età**: age
 - **sezione**: section
 - **vestito**: dress
-- **nube**: cloud
+- **nube**: cloud ⛅️
 - **sorpresa**: surprise
 - **tranquillo**: quiet
 - **pietra**: stone
@@ -704,18 +698,18 @@
 - **lotto**: lot
 - **esperimento**: experiment
 - **fondo**: bottom
-- **chiave**: key
+- **chiave**: key 🔑
 - **ferro**: iron
 - **singolo**: single
 - **bastone**: stick
 - **appartamento**: flat
 - **venti**: twenty
 - **pelle**: skin
-- **sorriso**: smile
+- **sorriso**: smile 😄
 - **piega**: crease
 - **foro**: hole
 - **salto**: jump
-- **bambino**: baby
+- **bambino**: baby 👶
 - **otto**: eight
 - **villaggio**: village
 - **si incontrano**: meet
@@ -740,7 +734,7 @@
 - **bruciare**: burn
 - **collina**: hill
 - **sicuro**: safe
-- **gatto**: cat
+- **gatto**: cat 😸
 - **secolo**: century
 - **considerare**: consider
 - **tipo**: type
@@ -778,7 +772,7 @@
 - **pratica**: practice
 - **separato**: separate
 - **difficile**: difficult
-- **medico**: doctor
+- **medico**: doctor 
 - **per favore**: please
 - **proteggere**: protect
 - **mezzogiorno**: noon
@@ -794,7 +788,7 @@
 - **individuare**: locate
 - **anello**: ring
 - **carattere**: character
-- **insetto**: insect
+- **insetto**: insect 
 - **catturato**: caught
 - **periodo**: period
 - **indicare**: indicate
@@ -806,7 +800,7 @@
 - **effetto**: effect
 - **elettrico**: electric
 - **aspettare**: expect
-- **osso**: bone
+- **osso**: bone 🦴
 - **ferrovia**: rail
 - **immaginare**: imagine
 - **fornire**: provide
@@ -822,14 +816,14 @@
 - **creare**: create
 - **prossimo**: neighbor
 - **lavaggio**: wash
-- **pipistrello**: bat
+- **pipistrello**: bat 🦇
 - **piuttosto**: rather
 - **folla**: crowd
 - **mais**: corn
 - **confrontare**: compare
 - **poesia**: poem
 - **stringa**: string
-- **campana**: bell
+- **campana**: bell 🔔
 - **dipendere**: depend
 - **carne**: meat
 - **strofinare**: rub
@@ -841,20 +835,20 @@
 - **vista**: sight
 - **sottile**: thin
 - **triangolo**: triangle
-- **pianeta**: planet
+- **pianeta**: planet 
 - **fretta**: hurry
 - **capo**: chief
 - **colonia**: colony
-- **orologio**: clock
+- **orologio**: clock 🕐
 - **miniera**: mine
-- **cravatta**: tie
+- **cravatta**: tie 
 - **inserire**: enter
 - **maggiore**: major
 - **fresco**: fresh
 - **ricerca**: search
 - **inviare**: send
 - **giallo**: yellow
-- **pistola**: gun
+- **pistola**: gun 
 - **consentire**: allow
 - **stampa**: print
 - **morto**: dead
@@ -863,7 +857,7 @@
 - **tuta**: suit
 - **corrente**: current
 - **ascensore**: lift
-- **rosa**: rose
+- **rosa**: rose 🌹
 - **arrivare**: arrive
 - **master**: master
 - **pista**: track
@@ -883,7 +877,7 @@
 - **quota**: share
 - **stazione**: station
 - **papà**: dad
-- **pane**: bread
+- **pane**: bread 🍞
 - **carica**: charge
 - **corretto**: proper
 - **bar**: bar
@@ -967,7 +961,7 @@
 - **continuare**: continue
 - **blocco**: block
 - **grafico**: chart
-- **cappello**: hat
+- **cappello**: hat 🧢
 - **vendere**: sell
 - **successo**: success
 - **azienda**: company
@@ -975,7 +969,7 @@
 - **evento**: event
 - **particolare**: particular
 - **affare**: deal
-- **nuoto**: swim
+- **nuoto**: swim 🏊‍♀️
 - **termine**: term
 - **opposto**: opposite
 - **moglie**: wife
@@ -1009,7 +1003,7 @@
 - **richiedere**: require
 - **ampio**: broad
 - **preparare**: prepare
-- **sale**: salt
+- **sale**: salt 🧂
 - **naso**: nose
 - **plurale**: plural
 - **rabbia**: anger
