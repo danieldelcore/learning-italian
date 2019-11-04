@@ -1,4 +1,4 @@
-# learning-italian 🇮🇹🍕🍝
+# Let's Learn Italian 🇮🇹🍕🍝
 
 ## Table of contents
 - [1000 most used Italian words](#most-used-words)
@@ -112,7 +112,7 @@
 - **vicino**: near
 - **costruire**: build
 - **se stesso**: self
-- **terra**: earth
+- **terra**: earth 
 - **padre**: father
 - **qualsiasi**: any
 - **nuovo**: new
