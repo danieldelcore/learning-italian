@@ -1,5 +1,7 @@
 # Let's Learn Italian 🇮🇹🍕🍝
 
+...word association with emojis!
+
 ## Table of contents
 - [1000 most used Italian words](#most-used-words)
 - [Cognates](#cognates)
@@ -16,6 +18,10 @@
 <a name="most-used-words"/>
 
 ## ~1000 most used Italian words
+
+<details>
+  <summary>~1000 most used Italian words</summary>
+
 - **io**: I
 - **il suo**: his
 - **che**: that
@@ -1009,6 +1015,7 @@
 - **rabbia**: anger
 - **richiesta**: claim
 - **continente**: continent
+</details>
 
 <a name="cognates"/>
 
