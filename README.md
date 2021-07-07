@@ -1034,7 +1034,8 @@ I have classified all 475 nouns into groups based on the available meaningful co
 
 <a name="cognates-group-1"/>
 
-### Group 1
+<details>
+  <summary>Group 1</summary>
 
 - **abilità**: skill, ability
 - **accordo**: accord, agreement, chord (mus.)
@@ -1246,12 +1247,17 @@ I have classified all 475 nouns into groups based on the available meaningful co
 - **visita**: visit
 - **vittoria**: win, victory
 
+</details>
+
 <a name="cognates-group-2"/>
 
 ### Group 2
 
 the fairly easy nouns (but you may have to work a little to see the connection)
 
+<details>
+  <summary>Group 2</summary>
+ 
 - **acqua**: water — aqua, aquatic
 - **amico**: friend — amicable, Spanish amigo
 - **angolo**: corner — angle
@@ -1305,6 +1311,7 @@ the fairly easy nouns (but you may have to work a little to see the connection)
 - **vento**: wind — cognates, also ventilate
 - **vista**: view, sight — vista
 - **vita**: life — vital
+</details>
 
 <a name="cognates-group-3"/>
 
@@ -1312,6 +1319,10 @@ the fairly easy nouns (but you may have to work a little to see the connection)
 
 Here are the words that are cognate, but less obviously so:
 
+
+<details>
+  <summary>Group 3</summary>
+ 
 - **alimentazione**: supply, feed, diet — alimentary (canal), alimentation
 - **anello**: ring — annulus, annular.
 - **aria**: air — aura, air, aerate, aerial
@@ -1414,12 +1425,18 @@ Here are the words that are cognate, but less obviously so:
 - **volontà**: will — voluntary
 - **zucchero**: sugar — cognates
 
+</details>
+ 
 <a name="cognates-group-4"/>
 
 ###  Group 4
 
 harder cognates, where the links are more obscure:
 
+
+<details>
+  <summary>Group 4</summary>
+ 
 - **acciaio**: steel — the common root means sharp; cognate with acid, acerbic, acrimony
 - **ala**: wing — cognate with alar, agile, axle
 - **albero**: tree — cognate with arbor, arboreal, arboretum, also French arbre
@@ -1498,11 +1515,16 @@ harder cognates, where the links are more obscure:
 - **vestito**: dress — cognate with vestiment, vest, divest
 - **vetro**: glass — cognate with vitreous, vitrify, also French verre, vitre, and Spanish vidrio
 
+</details>
+ 
 <a name="cognates-group-5"/>
 
 ### Group 5
 
-Those with with the hardest connections:
+Those with with the hardest connections
+
+<details>
+  <summary>Group 5</summary>
 
 - **anatra**: duck — cognate with an obscure English word, anatine, also German Ente
 - **bisogno**: need — cognate with French besoin; a possible keyword for those unfamiliar with this word is bison
@@ -1527,13 +1549,20 @@ Those with with the hardest connections:
 - **taglio**: cut — cognate with tagliatelle, intaglio
 - **testa**: head — cognate with French tête, Spanish testa
 - **uccello**: bird — cognate with avian, aviary, also French oiseau
-
+ 
+</details>
+ 
+ 
 <a name="cognates-group-6"/>
 
 ### Group 6
 
 Those with no connections. These are the ones for which a mnemonic link is recommended, and I’ve provided some suggestions:
 
+
+<details>
+  <summary>Group 6</summary>
+ 
 - **cantiere**: shipyard, building site — canter into the yard
 - **cibo**: food — chip (actually cognate with ciborium, a receptacle for communion wafers, if you happen to know it; also Spanish cebo)
 - **elenco**: list — elect to the list
@@ -1546,6 +1575,8 @@ Those with no connections. These are the ones for which a mnemonic link is recom
 - **se**:stesso, self — stetson
 - **tuta**: suit (sweatsuit, tracksuit, overalls) — tutu
 - **volto**: face — think of the expression volte face
+
+</details>
 
 <a name="numbers"/>
 
